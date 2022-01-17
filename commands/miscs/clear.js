@@ -1,5 +1,3 @@
-// noinspection SpellCheckingInspection, JSCheckFunctionSignatures
-
 const {channels} = require("../../config/config.json");
 module.exports = {
     name: 'clear',
