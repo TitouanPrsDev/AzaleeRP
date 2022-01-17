@@ -1,5 +1,3 @@
-// noinspection SpellCheckingInspection, JSCheckFunctionSignatures
-
 module.exports = {
     name: 'job',
     description: "Commandes relatives aux métiers",
