@@ -1,5 +1,3 @@
-// noinspection SpellCheckingInspection, JSCheckFunctionSignatures
-
 const {roles, channels} = require("../../config/config.json");
 const {MessageEmbed} = require("discord.js");
 const {connection} = require("../../config/database");
