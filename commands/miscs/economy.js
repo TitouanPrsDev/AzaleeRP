@@ -1,5 +1,3 @@
-// noinspection SpellCheckingInspection, JSCheckFunctionSignatures
-
 const {connection} = require("../../config/database");
 const {roles, channels} = require("../../config/config.json");
 module.exports = {
